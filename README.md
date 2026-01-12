@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Eigil and I have a background in geospatial machine learning and scientific computing, working with complex, large-scale data and research-grade models.
 <!--
 **eyhl/eyhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Machine Learning & MLOps Engineer
-
-Background in geospatial machine learning and scientific computing, working with complex, large-scale data and research-grade models.
 
 I focus on turning ML research into reproducible, pipeline-driven systems, with attention to:
 - training and evaluation workflows
