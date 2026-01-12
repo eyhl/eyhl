@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Machine Learning & MLOps Engineer
+
+Background in geospatial machine learning and scientific computing, working with complex, large-scale data and research-grade models.
+
+I focus on turning ML research into reproducible, pipeline-driven systems, with attention to:
+- training and evaluation workflows
+- data preprocessing pipelines
+- environment and experiment reproducibility
+- deployment-aware code structure
+
+### Core skills
+Python · PyTorch · JAX · NumPy  
+ML pipelines · experiment tracking · reproducible environments  
+Geospatial & remote sensing data (SAR, raster pipelines)
+
+### Selected work
+- End-to-end ML pipelines for geospatial data
+- Large-scale preprocessing and model inference
+- Scientific ML projects structured with production principles
+
+I am particularly interested in MLOps roles where model reliability, reproducibility, and real-world constraints matter.
+
