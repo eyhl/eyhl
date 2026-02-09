@@ -24,14 +24,14 @@ I focus on turning ML research into reproducible, pipeline-driven systems, with 
 - deployment-aware code structure
 
 ### Core skills
-Python · PyTorch · JAX · NumPy  
+Python · PyTorch · Julia  
 ML pipelines · experiment tracking · reproducible environments  
-Geospatial & remote sensing data (SAR, raster pipelines)
+Geospatial & remote sensing data (synthetic aperature radar, raster pipelines)
 
 ### Selected work
 - End-to-end ML pipelines for geospatial data
 - Large-scale preprocessing and model inference
 - Scientific ML projects structured with production principles
 
-I am particularly interested in MLOps roles where model reliability, reproducibility, and real-world constraints matter.
+I am particularly interested in ML and MLOps roles where model reliability, reproducibility, and real-world constraints matter.
 
