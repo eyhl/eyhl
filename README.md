@@ -26,7 +26,7 @@ I build machine learning and computer vision systems, often in places where the 
 - 🛠️ **Tooling**: GitHub Actions · Docker · DVC · remote GPU/HPC
 
 ## 🔭 These days I am working on
-- A HITL JobAgent, because I got very tired of writing applications and updating my CV, and default AI can be impressively generic.
+- Combining webcam and a ultrasound distance measurement through the LeJEPA ideas to build depth aware pixels in a scare/noisy data environment.
 - A landslide revival, where I am trying to turn an old research model into something closer to a usable monitoring pipeline
 <!--
 **eyhl/eyhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
